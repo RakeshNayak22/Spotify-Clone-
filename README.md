@@ -1,2 +1,1 @@
-# Spotify-Clone-
-A responsive Spotify-inspired music player featuring custom audio controls, styled playlists, and a modern UI built with HTML, CSS, and JavaScript. Users can play, pause, and switch between songs with a clean and mobile-friendly layout. It looks and feels like Spotify but is fully made using basic web technologies without any libraries.
+🎵 Spotify Clone is a responsive music streaming web app built using HTML, CSS, and JavaScript. It mimics the core design and functionality of Spotify, allowing users to play/pause songs and navigate through a playlist UI. This project showcases my frontend development skills and understanding of dynamic UI interactions.
